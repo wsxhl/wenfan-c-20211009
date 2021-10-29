@@ -4,12 +4,12 @@ int main()
 {
    int price = 0;
 
-   printf("ÇëÊäÈë¼Û¸ñ£º");
+   printf("è¯·è¾“å…¥ä»·æ ¼ï¼š");
    scanf("%d",&price);
 
    int change = 100-price;
 
-    printf("ÕÒÄú%dÔª",change);
+    printf("æ‰¾æ‚¨%då…ƒ",change);
 
 
 
